@@ -1,6 +1,6 @@
 # wordler
 
-A simple solver for the Matthew Parkers wordle problem.
+A simple solver for Matthew Parkers wordle problem.
 
 ## The problem:
 
